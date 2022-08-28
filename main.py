@@ -2,7 +2,8 @@
 from functions import *
 
 # import the file
-file_import_directory = ''#HERE THE DIRECTORY
+print('Paste input file directory including file-name to import')
+file_import_directory = input()#HERE THE DIRECTORY
 
 
 # read the file and assert it is a valid FASTA
