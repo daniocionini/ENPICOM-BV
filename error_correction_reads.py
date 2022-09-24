@@ -6,7 +6,7 @@ def filter_nuc(letter):
 
 
 # CHANGE__ the import directory is necessary to import a FASTA file
-file_import_directory = "H:\Rosalind Challenges\error_correction_reads\sample dataset.txt"
+file_import_directory = "IMPORT_DIRECTORY"
 
 # import the FASTA file and read through
 seq_orig = open(file_import_directory, "r")
