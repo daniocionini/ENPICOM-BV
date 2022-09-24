@@ -10,7 +10,7 @@ https://rosalind.info/problems/mmch/
 
 #### Try it Out
 ```
-git clone https://github.com/daniocionini/ENPICOM-BV-Application.git
+git clone https://github.com/daniocionini/ENPICOM-BV.git
 cd ENPICOM-BV-Application
 ```
 ## Error Correction in Reads code (Python)
@@ -23,7 +23,7 @@ https://rosalind.info/problems/corr/
 
 #### Try it Out
 ```
-git clone https://github.com/daniocionini/ENPICOM-BV-Application.git
+git clone https://github.com/daniocionini/ENPICOM-BV.git
 cd ENPICOM-BV-Application
 ```
 ## Needleman-Wunsch algorithm code (Python)
@@ -35,6 +35,6 @@ The Needleman–Wunsch algorithm is an algorithm used in bioinformatics to align
 
 #### Try it Out
 ```
-git clone https://github.com/daniocionini/ENPICOM-BV-Application.git
+git clone https://github.com/daniocionini/ENPICOM-BV.git
 cd ENPICOM-BV-Application
 ```
