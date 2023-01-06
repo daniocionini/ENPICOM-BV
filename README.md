@@ -8,7 +8,7 @@ https://rosalind.info/problems/mmch/
 #### Prerequisites
 * Python 3.6+
 
-#### Try it Out
+### Try it Out
 ```
 git clone https://github.com/daniocionini/ENPICOM-BV.git
 cd ENPICOM-BV-Application
